@@ -1,0 +1,52 @@
+---
+title: "Elizabeth Crespi"
+image: "lizzie.jpg"
+
+links:
+  - label: '`r fontawesome::fa("linkedin", fill = "#67a4d6")` LinkedIn'
+    url: "https://linkedin.com/in/elizabeth-crespi-345a13138"
+  - label: '`r fontawesome::fa("github-square", fill = "#67a4d6")` GitHub'
+    url: "https://github.com/ecrespi2"
+  - label: '`r fontawesome::fa("envelope", fill = "#67a4d6")` Email'
+    url: "mailto:ecrespi2@jhu"
+  - label: '`r fontawesome::fa("paperclip", fill = "#67a4d6")` Google Scholar'
+    url: "mailto:https://scholar.google.com/citations?user=c0cyPusAAAAJ&hl=en"
+output:
+  postcards::trestles
+
+---
+ 
+## Bio
+
+Elizabeth Crespi studies programs and policies related to food and climate. 
+Her research focuses on identifying and optimizing solutions to environmental health 
+challenges facing our society, particularly pertaining to food system sustainability. 
+Elizabeth has worked directly with non-profits in Baltimore City focused on building 
+a more sustainable and equitable food system through urban farming. In her free time, 
+Elizabeth enjoys tending to her garden & food forest, playing with her cats, and hiking. 
+
+## Education
+[<span style="color: #67a4d6">**Johns Hopkins Bloomberg School of Public Health**</span>](https://publichealth.jhu.edu/) [2023-]{style="float:right"}
+
+PhD in Public Health
+
+[<span style="color: #67a4d6">**Johns Hopkins Bloomberg School of Public Health**</span>](https://publichealth.jhu.edu/) [2021]{style="float:right"}
+
+Masters of Public Health
+
+[<span style="color: #67a4d6">**Johns Hopkins University**</span>](https://www.jhu.edu/) [2018]{style="float:right"}
+
+BA in Public Health & Biology
+
+
+## Experience
+
+[<span style="color: #67a4d6">**Johns Hopkins Bloomberg School of Public Health**</span>](https://publichealth.jhu.edu/) [Jan 2020 - Aug 2023]{style="float:right"}
+
+Research Program Coordinator
+
+[<span style="color: #67a4d6">**Farm Alliance of Baltimore**</span>](https://farmalliancebaltimore.org/) [May 2018 - Dec 2019]{style="float:right"}
+
+Program Coordinator
+
+
