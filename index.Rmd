@@ -11,42 +11,48 @@ links:
     url: "mailto:ecrespi2@jhu"
   - label: '`r fontawesome::fa("paperclip", fill = "#67a4d6")` Google Scholar'
     url: "mailto:https://scholar.google.com/citations?user=c0cyPusAAAAJ&hl=en"
+  - label: '`r fontawesome::fa("orcid", fill = "#67a4d6")` ORCID'
+    url: "https://orcid.org/0000-0002-5462-5976"
+
 output:
   postcards::trestles
 
 ---
- 
+<style>
+a {
+    color: #67a4d6;
+}
+</style>
+
 ## Bio
 
-Elizabeth Crespi studies programs and policies related to food and climate. 
-Her research focuses on identifying and optimizing solutions to environmental health 
-challenges facing our society, particularly pertaining to food system sustainability. 
-Elizabeth has worked directly with non-profits in Baltimore City focused on building 
-a more sustainable and equitable food system through urban farming. In her free time, 
-Elizabeth enjoys tending to her garden & food forest, playing with her cats, and hiking. 
+Elizabeth Crespi studies programs and policies related to food and climate. Her research focuses on identifying and optimizing solutions to environmental health challenges facing our society, particularly pertaining to food system sustainability. Elizabeth has worked directly with non-profits in Baltimore City focused on building a more sustainable and equitable food system through urban farming. In her free time, Elizabeth enjoys tending to her garden & food forest, playing with her cats, and hiking.
 
 ## Education
-[<span style="color: #67a4d6">**Johns Hopkins Bloomberg School of Public Health**</span>](https://publichealth.jhu.edu/) [2023-]{style="float:right"}
 
-PhD in Public Health
+[[**Johns Hopkins Bloomberg School of Public Health**](https://publichealth.jhu.edu/)]{style="color: #67a4d6"} [2023-]{style="float:right"}
+<p style="line-height: 2;">PhD, Public Health</p>
 
-[<span style="color: #67a4d6">**Johns Hopkins Bloomberg School of Public Health**</span>](https://publichealth.jhu.edu/) [2021]{style="float:right"}
+[[**Johns Hopkins Bloomberg School of Public Health**](https://publichealth.jhu.edu/)]{style="color: #67a4d6"} [2021]{style="float:right"}
+<p style="line-height: 2;">Masters, Public Health</p>
 
-Masters of Public Health
-
-[<span style="color: #67a4d6">**Johns Hopkins University**</span>](https://www.jhu.edu/) [2018]{style="float:right"}
-
-BA in Public Health & Biology
-
+[[**Johns Hopkins University**](https://www.jhu.edu/)]{style="color: #67a4d6"} [2018]{style="float:right"}
+<p style="line-height: 2;">BA, Public Health & Biology</p>
 
 ## Experience
 
-[<span style="color: #67a4d6">**Johns Hopkins Bloomberg School of Public Health**</span>](https://publichealth.jhu.edu/) [Jan 2020 - Aug 2023]{style="float:right"}
+[[**Johns Hopkins Bloomberg School of Public Health**](https://publichealth.jhu.edu/)]{style="color: #67a4d6"} [Jan 2020 - Aug 2023]{style="float:right"}
+<p style="line-height: 2;">Research Program Coordinator</p>
 
-Research Program Coordinator
+[[**Farm Alliance of Baltimore**](https://farmalliancebaltimore.org/)]{style="color: #67a4d6"} [May 2018 - Dec 2019]{style="float:right"}
+<p style="line-height: 2;">Program Coordinator</p>
 
-[<span style="color: #67a4d6">**Farm Alliance of Baltimore**</span>](https://farmalliancebaltimore.org/) [May 2018 - Dec 2019]{style="float:right"}
-
-Program Coordinator
-
+## Skills
+-  [[**R Programming**](https://www.r-project.org)]{style="color: #67a4d6"} 
+-  [[**Stata Programming**](https://www.stata.com)]{style="color: #67a4d6"} 
+-  [[**Data visualization with Tableau**](https://www.tableau.com)]{style="color: #67a4d6"} 
+-  [[**Data visualization with PowerBI**](https://www.microsoft.com/en-us/power-platform/products/power-bi)]{style="color: #67a4d6"} 
+-  [[**ArcGIS**](https://www.arcgis.com/index.html)]{style="color: #67a4d6"} 
+-  [[**MAXQDA**](https://www.maxqda.com/)]{style="color: #67a4d6"} 
+-  [[**Survey development in KoboToolbox and REDCap**](https://www.kobotoolbox.org)]{style="color: #67a4d6"} 
 
